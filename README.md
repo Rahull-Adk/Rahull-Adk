@@ -1,39 +1,64 @@
-# Yo, I’m Shane Htet Aung (Rahull Adk) — aspiring backend wizard
+# Shane Htet Aung (Rahull Adk)
 
-Backend dev in the making. I build APIs, break them (sometimes), fix them (usually), and obsess over clean code, performance, and shipping real stuff. Currently deep in the .NET Core & C# grind, aiming for that FAANG backend engineer badge.
+**Aspiring Backend Engineer**
 
-## ⚙️ Tech I vibe with
-
-- **Languages:** C#, JS/TS, Python  
-- **Backend:** ASP.NET Core (main), Node.js + Express (when I feel like suffering)  
-- **DBs:** MySQL, MongoDB  
-- **DevOps-ish:** Docker, Redis, CI/CD, AWS basics (Learning) 
-- **Testing:** xUnit, Moq  
-- **Frontend (just enough to survive):** React, Next.js, Tailwind CSS  
-- **Tools:** Git, Postman, VS Code, Ubuntu
-
-## 🚧 What I’m building
-- A Facebook clone backend with auth, posts, comments, likes, media uploads, and real-time features  
-- A full freelance/job board app (Jobsphere) using .NET Core + Auth0  
-- Microservices, Dockerized apps, and some spicy AWS deployment magic coming soon  
-
-## 📈 Currently focused on:
-- Becoming **freelance/job ready** — no tutorial zombie stuff  
-- Leveling up with **Docker**, **Redis**, **testing**, **AWS**, and clean architecture  
-- Grinding **DSA** with Python for internship prep (Google, I’m staring at you)  
-- Documenting my journey, wins, L’s, and everything in between
-
-## 🧠 Mentality
-> No motivation. Just discipline.
-
-Trying to live like a high-performance backend server: fast, reliable, minimal downtime.
-
-## Find me online:
-- **LinkedIn:** https://www.linkedin.com/in/shane-htet-aung-59065b269/  
-- **Email:** shanehtetaung.conceptx.mm@gmail.com  
-- **Chess.com:** Rahulladk  
-- **GitHub:** You’re already here.
+Backend-focused developer with a strong interest in building scalable, maintainable systems. I work primarily with **C# and ASP.NET Core**, focusing on API design, performance optimization, and clean architecture. I prioritize real-world projects over tutorials and aim to be production-ready for backend engineering roles and internships.
 
 ---
 
-*Feel free to check out my repos. Drop a star if it made you nod. I’m always down to connect or collab on something dope.*
+## About Me
+
+- Backend-first mindset  
+- Interested in system design, performance, and reliability  
+- Focused on practical engineering over theory-heavy learning  
+- Currently preparing for backend internships and entry-level roles  
+
+---
+
+## Tech Stack
+
+### Languages
+- C#
+- JavaScript / TypeScript
+- Python
+
+### Backend
+- ASP.NET Core (primary)
+- Node.js with Express
+
+### Databases
+- MySQL
+- MongoDB
+
+### DevOps & Infrastructure
+- Docker
+- Redis
+- CI/CD fundamentals
+- AWS (basic, actively learning)
+
+### Testing
+- xUnit
+- Moq
+
+---
+
+##  What I’m Working On
+
+- Building production-style backend systems
+- Improving reliability, performance, and code quality
+- Deepening experience with Docker, Redis, testing, and AWS
+- Practicing data structures and algorithms with Python for internship preparation
+
+---
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/shane-htet-aung-59065b269/
+- **Email:** shanehtetaung.conceptx.mm@gmail.com
+- **GitHub:** https://github.com/Rahull-Adk
+- **Chess.com:** Rahulladk
+
+---
+
+Feel free to explore my repositories.  
+I’m open to collaboration on meaningful backend-focused projects.
